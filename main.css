@@ -1,0 +1,25 @@
+body {
+    width: 100%;
+    margin: 64px;
+    background-color: #222;
+    color: white;
+}
+
+#section-icon {
+    max-width: 640px;
+    background-color: #444;
+}
+
+#img {
+    width: 100%;
+    height: auto;
+}
+
+#hello {
+    font-style: italic;
+}
+
+#icon-details {
+    font-style: oblique;
+    text-align: justify;
+}
